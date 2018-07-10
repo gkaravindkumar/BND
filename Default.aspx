@@ -5,6 +5,7 @@
     <div class="jumbotron">
         <h1>ASP.NET Sample Application</h1>
         <h1>DEV test</h1>
+        <h1>Commit1</h1>
         <p class="lead">To test app from Git and Jenkins.</p>
         <p><a href="https://jenkins.io/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>

@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>ASP.NET Sample Application</h1>
-        <h1>Demo test</h1>
+        <h1>UAT Branch</h1>
         <p class="lead">To test app from Git and Jenkins.</p>
         <p><a href="https://jenkins.io/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>

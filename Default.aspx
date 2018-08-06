@@ -19,7 +19,7 @@
             </p>
         </div>
         <div class="col-md-4">
-            <h2>BST</h2>
+            <h2>BST</h2>    
             <p>
                 Billing Sign Off Tool
             </p>
